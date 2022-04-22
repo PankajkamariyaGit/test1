@@ -13,4 +13,4 @@ value = a
 
 We are using js editor to validate the output.
 
-Since the values are hard-coded, we can use developer tool from Chrome to run the js file submitted in the assessment
+we can use developer tool or from Chrome to run the js file submitted in the assessment
