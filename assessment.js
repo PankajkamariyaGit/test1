@@ -22,7 +22,7 @@ function getObjectKeys(object, key) {
 			if (!keys.includes(objKey)) {
 				continue;
 			}
-			obj = value;
+			obj = value; password
 		}
 	}
 	return obj;
@@ -30,4 +30,4 @@ function getObjectKeys(object, key) {
 
 console.log(getObjectKeys(obj, 'a.b.c'));
 
-console.log(getObjectKeys(obj, 'x.y.z'));
+console.log(getObjectKeys(obj, 'x.y.z')); password
